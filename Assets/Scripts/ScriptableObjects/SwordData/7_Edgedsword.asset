@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 7_Edgedsword
   m_EditorClassIdentifier: 
   swordName: Edged Sword
-  description: The deadly serrations, bright orange treated blade and high price reserve
+  description: The deadly serrations, orange treated blade and high price reserve
     this sword only for the most skilled warriors in the land, or rich poseurs who
     want to pretend they're part of the first group.
   icon: {fileID: 21300000, guid: b99c761c39af3d8489cabb82c1b24ad0, type: 3}
